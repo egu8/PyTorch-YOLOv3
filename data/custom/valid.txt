@@ -1,1 +1,10 @@
-data/custom/images/train.jpg
+data/custom/images/backpacks/IMG_20190902_175117R.jpg
+data/custom/images/backpacks/IMG_20190902_174746R.jpg
+data/custom/images/backpacks/IMG_20190902_175717R.jpg
+data/custom/images/backpacks/IMG_20190902_174812R.jpg
+data/custom/images/backpacks/IMG_20190902_175106R.jpg
+data/custom/images/backpacks/IMG_20190902_174939R.jpg
+data/custom/images/backpacks/IMG_20190902_174826R.jpg
+data/custom/images/backpacks/IMG_20190902_174955R.jpg
+data/custom/images/backpacks/IMG_20190902_174945R.jpg
+data/custom/images/backpacks/IMG_20190902_175708R.jpg
